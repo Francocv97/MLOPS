@@ -1,0 +1,8 @@
+fastapi
+pandas
+numpy
+uvicorn
+nest_asyncio
+httpx
+starlette
+scikit-learn
