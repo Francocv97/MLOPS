@@ -14,6 +14,10 @@ Como MLOps Engineer en Steam, te enfrentas al desafío de llevar un modelo de re
 
 A partir de las bases de datos entregadas en archivos json se trabajaron las transformaciones en dataframes, haciendo posible un trabajo mas preciso y complejo con los datos. Se eliminaron columnas presindibles para esta etapa, también se conservaron solo las columnas necesarias para realizar las consultas.
 
+Puedes encontrar aqui los archivos json, necesitas descargar y descomprimirlos para usarlos en esta carpeta
+
+--> https://drive.google.com/drive/folders/1HqBG2-sUkz_R3h1dZU5F2uAzpRn7BSpj
+
 
 ### Feature Engineering
 
